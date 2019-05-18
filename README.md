@@ -6,13 +6,13 @@ Git && User Interface Practice Repo
 
 Before you begin to work on any of the bulk of the project please do the following:
 
-1. Fork the project.
-2. Add me as a collaborator under the repo settings.
-3. Clone your forked copy to your local machine.
-4. `cd` into the cloned directory and run `code .` to open VSC
-5. run `git checkout -b YOUR-NAME`
+1. Fork the project. -check
+2. Add me as a collaborator under the repo settings. -check
+3. Clone your forked copy to your local machine. -check
+4. `cd` into the cloned directory and run `code .` to open VSC -check
+5. run `git checkout -b YOUR-NAME` -check
 
-   it should then tell you that you created a new branch and should have switched you over to it
+   it should then tell you that you created a new branch and should have switched you over to it -check
 
 6. edit the index.html in VSC and add the meta viewport tag and save the file
 7. run `git add .`
