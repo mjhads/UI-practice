@@ -15,9 +15,9 @@ Before you begin to work on any of the bulk of the project please do the followi
    it should then tell you that you created a new branch and should have switched you over to it -check
 
 6. edit the index.html in VSC and add the meta viewport tag and save the file
-7. run `git add .`
-8. run `git commit -m "Initial commit"`
-9. run `git push -u origin YOUR-NAME`
+7. run `git add .` -check
+8. run `git commit -m "Initial commit"` -check
+9. run `git push -u origin YOUR-NAME` -check
 10. Go to your repo (MAKE SURE IT HAS YOUR NAME/REPO NAME) on github and go to the pull request tab
 11. Use the green button to create a pull request
 12. Change the base fork to your master fork and you want to merge in the branch that has your name
