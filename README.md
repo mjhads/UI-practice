@@ -6,18 +6,18 @@ Git && User Interface Practice Repo
 
 Before you begin to work on any of the bulk of the project please do the following:
 
-1. Fork the project.
-2. Add me as a collaborator under the repo settings.
-3. Clone your forked copy to your local machine.
-4. `cd` into the cloned directory and run `code .` to open VSC
-5. run `git checkout -b YOUR-NAME`
+1. Fork the project. -check
+2. Add me as a collaborator under the repo settings. -check
+3. Clone your forked copy to your local machine. -check
+4. `cd` into the cloned directory and run `code .` to open VSC -check
+5. run `git checkout -b YOUR-NAME` -check
 
-   it should then tell you that you created a new branch and should have switched you over to it
+   it should then tell you that you created a new branch and should have switched you over to it -check
 
 6. edit the index.html in VSC and add the meta viewport tag and save the file
-7. run `git add .`
-8. run `git commit -m "Initial commit"`
-9. run `git push -u origin YOUR-NAME`
+7. run `git add .` -check
+8. run `git commit -m "Initial commit"` -check
+9. run `git push -u origin YOUR-NAME` -check
 10. Go to your repo (MAKE SURE IT HAS YOUR NAME/REPO NAME) on github and go to the pull request tab
 11. Use the green button to create a pull request
 12. Change the base fork to your master fork and you want to merge in the branch that has your name
@@ -28,4 +28,4 @@ Before you begin to work on any of the bulk of the project please do the followi
 
 ## Practice Repo - UI/BoxModel/Flexbox
 
-We will use the included HTML markup to practice the concepts from the past two weeks.
+We will use the included HTML markup to practice the concepts from the past two weeks. ...
